@@ -1,0 +1,19 @@
+c:\users\gocak\documents\visual studio 2015\Projects\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\bin\Debug\AutomatedTestDenemeProje1.exe.config
+c:\users\gocak\documents\visual studio 2015\Projects\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\bin\Debug\AutomatedTestDenemeProje1.exe
+c:\users\gocak\documents\visual studio 2015\Projects\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\bin\Debug\AutomatedTestDenemeProje1.pdb
+c:\users\gocak\documents\visual studio 2015\Projects\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.csprojResolveAssemblyReference.cache
+c:\users\gocak\documents\visual studio 2015\Projects\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.Form1.resources
+c:\users\gocak\documents\visual studio 2015\Projects\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.Properties.Resources.resources
+c:\users\gocak\documents\visual studio 2015\Projects\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.csproj.GenerateResource.Cache
+c:\users\gocak\documents\visual studio 2015\Projects\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.exe
+c:\users\gocak\documents\visual studio 2015\Projects\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.pdb
+C:\Users\Development\Desktop\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\bin\Debug\AutomatedTestDenemeProje1.exe.config
+C:\Users\Development\Desktop\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\bin\Debug\AutomatedTestDenemeProje1.exe
+C:\Users\Development\Desktop\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\bin\Debug\AutomatedTestDenemeProje1.pdb
+C:\Users\Development\Desktop\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.csprojAssemblyReference.cache
+C:\Users\Development\Desktop\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.Form1.resources
+C:\Users\Development\Desktop\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.Properties.Resources.resources
+C:\Users\Development\Desktop\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.csproj.GenerateResource.cache
+C:\Users\Development\Desktop\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.csproj.CoreCompileInputs.cache
+C:\Users\Development\Desktop\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.exe
+C:\Users\Development\Desktop\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.pdb
