@@ -17,3 +17,13 @@ C:\Users\Development\Desktop\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1
 C:\Users\Development\Desktop\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.csproj.CoreCompileInputs.cache
 C:\Users\Development\Desktop\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.exe
 C:\Users\Development\Desktop\AutomatedTestDenemeProje1\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.pdb
+C:\Users\BarisBali\Desktop\WinFormApp\AutomatedTestDenemeProje1\bin\Debug\AutomatedTestDenemeProje1.exe.config
+C:\Users\BarisBali\Desktop\WinFormApp\AutomatedTestDenemeProje1\bin\Debug\AutomatedTestDenemeProje1.exe
+C:\Users\BarisBali\Desktop\WinFormApp\AutomatedTestDenemeProje1\bin\Debug\AutomatedTestDenemeProje1.pdb
+C:\Users\BarisBali\Desktop\WinFormApp\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.csproj.AssemblyReference.cache
+C:\Users\BarisBali\Desktop\WinFormApp\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.Form1.resources
+C:\Users\BarisBali\Desktop\WinFormApp\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.Properties.Resources.resources
+C:\Users\BarisBali\Desktop\WinFormApp\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.csproj.GenerateResource.cache
+C:\Users\BarisBali\Desktop\WinFormApp\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.csproj.CoreCompileInputs.cache
+C:\Users\BarisBali\Desktop\WinFormApp\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.exe
+C:\Users\BarisBali\Desktop\WinFormApp\AutomatedTestDenemeProje1\obj\Debug\AutomatedTestDenemeProje1.pdb
